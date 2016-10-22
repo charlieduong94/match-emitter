@@ -1,0 +1,18 @@
+{
+  "name": "match-emitter",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Charlie Duong <charlieduong94@gmail.com>",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "benchmark": "^2.1.1",
+    "pattern-emitter": "^1.0.0",
+    "regexemitter": "^0.3.0"
+  },
+  "dependencies": {
+    "eventemitter3": "^2.0.2"
+  }
+}
